@@ -1,0 +1,36 @@
+_repo: Memoirs-of-Madame-la-Marquise-de-Montespan---Complete_3854
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3854/3854-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise
+      de
+    aliases:
+    - De Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise
+    - Montespan, Francoise-Athenais de Rochechouart de Mortemart, marquise de
+    birthdate: 1641
+    deathdate: 1707
+    gutenberg_agent_id: '1330'
+    url: http://www.gutenberg.org/2009/agents/1330
+description: ''
+gutenberg_issued: '2004-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Louis XIV, King of France, 1638-1715'
+- !lcsh 'Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise de,
+  1641-1707'
+- GITenberg
+title: Memoirs of Madame la Marquise de Montespan — Complete
+url: http://www.gutenberg.org/ebooks/3854
